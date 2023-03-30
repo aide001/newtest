@@ -99,6 +99,17 @@ padding: 3%;
 }
 
 
+.slogan {
+
+    font-size:0.8rem;
+    margin-left: 0px;
+    font-style: italic;
+    font-family: "Arial";
+
+   }
+
+
+
 h1{
     font-family: "Arial";
     text-align: center;
