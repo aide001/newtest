@@ -59,6 +59,13 @@ padding: 3%;
 
    }
 
+
+.collapse navbar-collapse {
+
+margin-bottom: 30px;
+
+}
+
    .download-button{
     margin: 10% 0% 10% 0%;
     text-align:center;
